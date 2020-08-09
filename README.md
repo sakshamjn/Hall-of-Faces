@@ -2,7 +2,7 @@
 Implementing various model for detecting faces in an image.
 
 Detectors used: 
-  RfcnResnet101
-  SSDMobileNetV1
-  FasterRCNN
-  YOLOv2
+  1) RfcnResnet101
+  2) SSDMobileNetV1
+  3) FasterRCNN
+  4) YOLOv2
