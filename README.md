@@ -1,5 +1,5 @@
 # Hall-of-Faces
-Implementing various model for detecting faces in an image.
+Implementing - RfcnResnet101, SSDMobileNetV1, FasterRCNN, YOLOv2 for detecting faces.
 
 Detectors used: 
   1) RfcnResnet101
